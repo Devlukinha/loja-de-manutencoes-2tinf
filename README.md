@@ -1,4 +1,4 @@
-##Loja de Manutenções 2ºTINF
+## Loja de Manutenções 2ºTINF
 
 O cliente solicita um site para divulgação de seus serviços de manutenção e suporte à informática. 
 Na primeira página, deve ter informações como localização da empresa, principais serviços realizados pela empresa e informações sobre seus fundadores. 
